@@ -10,7 +10,7 @@ I’m a certified Full-Stack JavaScript Developer with a strong foundation in we
 
 - 🎓 Graduate of **Hacktiv8 Indonesia – Full-Stack JavaScript Immersive Bootcamp**
 - 💼 Actively seeking roles as a Software Developer
-- 📍 Based in Indonesia
+- 📍 Based in Jakarta, Indonesia
 - 🔭 Currently working on personal full-stack projects & contributing to open-source
 - 🌱 Always learning: TypeScript, DevOps, and Advanced Backend Architectures
 - 🌐 Languages: Indonesian (Native), English (Fluent), Russian (Professional Working Proficiency)
@@ -55,9 +55,9 @@ I’m a certified Full-Stack JavaScript Developer with a strong foundation in we
 
 Here are a few highlights:
 
-- 🔹 [**SplitBill AI**](https://gp-dio.web.app/) – Bill splitting app with AI-powered OCR, user-based item allocation, and expense sharing algorithm.  
-- 🔹 [**Book Store App**](#) – Full-stack bookstore app with CRUD, authentication, and user reviews.  
-- 🔹 [**Mini Social Platform**](#) – Real-time chat, posting, liking, and user profiles using Firebase + React.
+- 🔹 [**FoxQuiz**](https://gp-dio.web.app/) – A sophisticated real-time multiplayer quiz application featuring AI-powered question generation, live gameplay mechanics, and comprehensive user management systems built with modern full-stack technologies.
+- 🔹 [**iCircle App**](https://i-circle.vercel.app/) – A modern e-commerce platform specializing in Apple products with comprehensive product catalog, user authentication, and wishlist functionality.  
+- 🔹 [**Reddit**]() – A social media platform built with React Native featuring user authentication, post creation, and real-time interactions with comprehensive user management functionality.
 
 📌 *More projects available in my repositories section.*
 

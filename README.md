@@ -6,7 +6,7 @@
 
 ### 👨‍💻 About Me
 
-I’m a certified Full-Stack JavaScript Developer with a strong foundation in web development and modern JavaScript frameworks. I enjoy turning complex problems into elegant, efficient code and building applications that provide meaningful user experiences.
+I’m a certified Full-Stack JavaScript Developer with a strong foundation in web development and modern JavaScript frameworks. I enjoy turning complex problems into efficient code.
 
 - 🎓 Graduate of **Hacktiv8 Indonesia – Full-Stack JavaScript Immersive Bootcamp**
 - 💼 Actively seeking roles as a Software Developer
